@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lan /basics /holbertonschool-shell /boot
+ls -lan /. /boot
